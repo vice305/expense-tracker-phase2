@@ -13,6 +13,15 @@ const ExpenseTable = ({expenses}) => {
                 <th>Date</th>
             </tr>
         </thead>
+        <tbody className='table-body'>
+      <tr>
+        <td>Groceries</td>
+        <td>Weekly groceries</td>
+        <td>Food</td>
+        <td>$150</td>
+        <td>2023-10-01</td>
+      </tr>
+        </tbody>
       </table>
     </div>
   )
