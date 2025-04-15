@@ -11,9 +11,9 @@ A simple and responsive Expense Tracker web application built with React. Track,
 - Fully responsive .
 
 ### ✨ Advanced Features
-- Sort expenses alphabetically by category or description.
+- Sort expenses by category or description.
 - Delete any expense from the list.
-- Error boundary to handle unexpected component failures.
+
 
 ---
 
